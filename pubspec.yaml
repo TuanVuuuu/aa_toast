@@ -1,7 +1,7 @@
 name: aa_toast
 description: A customizable Flutter toast library with simple API and cross-platform support.
 version: 0.1.0
-homepage: https://github.com/your-username/aa_toast
+homepage: https://github.com/TuanVuuuu/aa_toast
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
